@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jayakrishnan
+- 👋 Hi, I’m @Jayakrishnan S
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on  mern stack projects
