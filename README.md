@@ -12,6 +12,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JK-mern](https://github.com/JK-mern)
 
+- - 📄 Portfolio [https://github.com/JK-mern](https://jayakrishnan.vercel.app/)
+
 - 💬 Ask me about **React,Express,MongoDB,Node**
 
 - 📫 How to reach me **jkmerndev@gmail.com**
